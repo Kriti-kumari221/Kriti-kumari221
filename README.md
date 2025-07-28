@@ -52,9 +52,7 @@ Let’s build something amazing together!
 
 ## 🐍 Snake-Eating My Contribution Graph
 
-<p align="center">
-  <img src="https://github.com/Kriti-kumari221/Kriti-kumari221/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+![Snake animation](https://github.com/Kriti-kumari221/Kriti-kumari221/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
