@@ -1,5 +1,4 @@
-````markdown name=README.md
-# 👋 Hi there, I'm Kriti Kumari!
+# 👋 Hi there, I'm Kriti!
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Kriti%20Kumari%20👩‍💻&fontSize=40&fontAlignY=35)
 
@@ -66,7 +65,7 @@ I’m on a mission to learn, experiment, and grow every day! Here are a few thin
 - 📚 Practicing coding challenges and problem-solving on LeetCode & Saksham AI
 - 🤖 Hands-on projects with AI/ML, from automation to smart applications
 - 🌐 Building responsive web apps with React, HTML, CSS, and Streamlit
-- 🔬 Data analysis and experiments in Jupyter Notebook
+- 🔬 Data analysis and experiments in Jupyter Notebook Google Colab
 - 🛠️ Deepening my understanding of databases (MySQL, DBMS, TALLY)
 - 🎨 Exploring creative design with Corel Draw
 - 💡 Always open to new technologies and fun collaborations
@@ -88,7 +87,7 @@ I’m on a mission to learn, experiment, and grow every day! Here are a few thin
 ![TALLY](https://img.shields.io/badge/TALLY-007C7C?style=for-the-badge)
 ![Corel Draw](https://img.shields.io/badge/CorelDraw-1AB759?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![More...](https://img.shields.io/badge/and%20more...-grey?style=for-the-badge)
+![Flask](https://img.shields.io/badge/and%20more...-grey?style=for-the-badge)
 
 ---
 
@@ -122,4 +121,3 @@ I’m on a mission to learn, experiment, and grow every day! Here are a few thin
 💡 *"Turning code and creativity into innovation, one project at a time!"*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-````
