@@ -89,25 +89,6 @@ I’m on a mission to learn, experiment, and grow every day! Here are a few thin
 
 ---
 
-## 🌱 Highlighted Projects
-
-- **leetcode**: Daily coding challenge, solving problems from basic to advanced for growth and learning.  
-- **Responsive-web1**: Creating mobile-friendly websites using HTML and CSS. 🚀
-- **JAVA**: Practicing Java and data structures.
-- **pandas**: Data manipulation and transformation with Python.
-- **NumPy**: Scientific computing and numerical operations in Python.
-- **web-dev**: Comprehensive guide to web development, from basics to advanced.
-
----
-
-## ✨ Fun Facts About Me
-
-- I can code and design outfits—sometimes both inspire each other!
-- A cup of chai is my favorite debugging companion.
-- Love mixing technology with creativity.
-- Always up for a new learning adventure and a good playlist.
-
----
 
 ## 🤝 Connect with Me
 
