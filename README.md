@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Kriti%20Kumari&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Robotics%20%7C%20Full%20Stack&descAlignY=60&descSize=20&descColor=d4b0ff" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=👩‍💻+4th+Year+Engineering+Student;🤖+AI+%26+ML+Enthusiast;🚀+Robotics+Explorer+%7C+Creative+Coder" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&height=55&lines=4th+Year+Engineering+Student+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Robotics+Explorer+%7C+Creative+Coder+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
